@@ -5,7 +5,8 @@
 最近开发了腾讯Hunyuan3D-2.1项目的unity版本！欢迎大家体验！
 
 使用方法
-1.新建unity项目，导入glTFast(https://github.com/atteneder/glTFast)项目。这里采用install package from git url.直接复制链接https://github.com/atteneder/glTFast.git即可
+1.新建unity项目，导入glTFast(https://github.com/atteneder/glTFast)
+项目。这里采用install package from git url.直接复制链接https://github.com/atteneder/glTFast.git即可
 
 ![image](https://github.com/user-attachments/assets/8ac86048-9e3f-49d5-b33a-73b6f99f5a3b)
 
